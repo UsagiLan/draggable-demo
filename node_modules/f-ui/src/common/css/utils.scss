@@ -1,0 +1,4 @@
+// pixels to rems 
+@function rem($px,$de:640,$rate:10) {
+    @return $px / $de * $rate * 1rem;
+}

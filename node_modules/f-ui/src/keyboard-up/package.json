@@ -1,0 +1,14 @@
+{
+  "name": "keyboard-up",
+  "version": "1.0.0",
+  "description": "check keyboard up or down",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build_ajax": "node ../../build/build.js keyboard-up"
+  },
+  "author": "zhangzhijun",
+  "license": "ISC",
+  "dependencies": {
+  }
+}

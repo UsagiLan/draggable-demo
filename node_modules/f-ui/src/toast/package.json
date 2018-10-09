@@ -1,0 +1,11 @@
+{
+  "name": "toast",
+  "version": "1.0.0",
+  "description": "toast",
+  "main": "index.js",
+  "scripts": {
+    "build_toast": "node ../../build/build.js toast"
+  },
+  "author": "zhangzhijun",
+  "license": "ISC"
+}

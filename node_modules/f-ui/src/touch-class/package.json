@@ -1,0 +1,11 @@
+{
+  "name": "touch-class",
+  "version": "1.0.0",
+  "description": "点击态使用",
+  "main": "index.js",
+  "scripts": {
+    "build_iphone-x-bottom-btn": "node ../../build/build.js touch-class"
+  },
+  "author": "zhangzhijun",
+  "license": "ISC"
+}

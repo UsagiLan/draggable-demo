@@ -1,0 +1,14 @@
+{
+  "name": "jsonp",
+  "version": "1.0.0",
+  "description": "jsonp plugin for vue",
+  "main": "index.js",
+  "scripts": {
+    "build_jsonp": "node ../../build/build.js jsonp"
+  },
+  "author": "zhangzhijun",
+  "license": "ISC",
+  "dependencies": {
+    "vue-jsonp": "^0.1.7"
+  }
+}

@@ -1,19 +1,8 @@
- >为了解决多个React页面，在同一个项目的管理问题
+ >vue drag resize rotate
 
 #### 安装依赖
-```
+```bash
 npm install
-```
-
-#### 特点
-* 支持热替换
-* 多页面入口
-* 同时支持，非React项目开发（ES6+Less+HTML)
-* 日志详细
-
-#### 生成Dll(`启动服务或打包前，确保先生成Dll`)
-```
-npm run dll
 ```
 
 #### 启动开发环境
@@ -25,6 +14,6 @@ npm run dll
 	`Notice`:要求MacOS or Windows10
 
 #### 打包压缩
-```
+```bash
 npm run build
 ```
