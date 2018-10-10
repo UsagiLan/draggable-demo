@@ -17,6 +17,7 @@
   /* 页面所需组件 */
   import html2canvas from 'html2canvas';
   import VueDraggableResizable from '@/components/vue-draggable-resizable/index.vue'
+  import touch from './touch.min.js'
   export default {
     data () {
       return {
@@ -43,6 +44,7 @@
       //     evt.preventDefault();
       //   }
       // });
+        console.log(touch)
     },
     methods: {
       /**
